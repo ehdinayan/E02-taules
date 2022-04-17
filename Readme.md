@@ -43,3 +43,5 @@ Let's see how will look like an html table wich has two colspanned cells as main
 In this repo's exercises we have done an Acid smiling face and a simple calendar with a few css style attributes.
 
 Note: I had no Idea of doing tables in MarkDown language was also possible xd...Cool!
+
+Now I share a link to the Git [web](https://ehdinayan.github.io/E02-taules/) of this repo.
