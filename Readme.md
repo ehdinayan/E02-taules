@@ -1,5 +1,6 @@
 # Exercise 02 tables
 
+Here I share a link to the Git [web](https://ehdinayan.github.io/E02-taules/) of this repo.</p>
 Well in this repo I would like to show a few things related to tables, wich are still in use in Mark up languages.
 
 We should use `<table>` label to start table. Inside, each`<tr>` label will instantiate a row, and inside each row we add cells through `<td>` label.
@@ -42,6 +43,4 @@ Let's see how will look like an html table wich has two colspanned cells as main
 
 In this repo's exercises we have done an Acid smiling face and a simple calendar with a few css style attributes.
 
-Note: I had no Idea of doing tables in MarkDown language was also possible xd...Cool!
-
-Now I share a link to the Git [web](https://ehdinayan.github.io/E02-taules/) of this repo.
+Note: I had no Idea of doing tables while writing in MarkDown language was also possible xd...Cool!
