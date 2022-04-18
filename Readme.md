@@ -28,7 +28,7 @@ Let's see how will look like an html table wich has two colspanned cells as main
     <td></td>
 <table>
 ```
-<p>
+
 <table>
   <tr>
     <th colspan="2">Name</th>
@@ -39,7 +39,7 @@ Let's see how will look like an html table wich has two colspanned cells as main
     <td></td>
     <td></td>
 <table>
-</p>
+
 
 In this repo's exercises we have done an Acid smiling face and a simple calendar with a few css style attributes.
 
