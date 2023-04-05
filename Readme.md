@@ -41,6 +41,14 @@ Let's see how will look like an html table wich has two colspanned cells as main
 <table>
 
 
-In this repo's exercises we have done an Acid smiling face and a simple calendar with a few css style attributes.
+In this repo's exercises we have done two Acid smiling faces and a simple calendar with a few css style attributes, wich are those from this two demos:
 
-Note: I had no Idea of doing tables while writing in MarkDown language was also possible xd...Cool!
+![](calendari.png)                  ![](acid-tabla.png)
+
+And this is what I did:
+
+![](calendar.png)
+
+![](face.png)                       
+
+![](face2.png)    
