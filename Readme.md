@@ -1,6 +1,6 @@
 # Exercise 02 tables
 
-Here I share a link to the Git [web]() of this repo.</p>
+
 Well in this repo I would like to show a few things related to tables, wich are still in use in Mark up languages.
 
 We should use `<table>` label to start table. Inside, each`<tr>` label will instantiate a row, and inside each row we add cells through `<td>` label.
